@@ -1,8 +1,25 @@
-# React + Vite
+AI Trip Planner
+An intelligent trip planner that leverages the Gemini AI model for personalized travel recommendations, built using React with Vite for the frontend and Firebase for the backend.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Introduction
+Features
+Tech Stack
+Getting Started
+Prerequisites
+Installation
+Usage
+License
+Introduction
+AI Trip Planner is a web application that helps users plan their trips by providing personalized travel recommendations. The application uses the Gemini AI model to suggest destinations, activities, and itineraries based on user preferences and inputs.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Personalized travel recommendations
+Destination and activity suggestions
+Itinerary planning
+User authentication and data storage
+Responsive design
+Tech Stack
+Frontend: React (with Vite), Tailwind CSS
+Backend: Firebase (Authentication, Firestore, Functions)
+AI Model: Gemini
