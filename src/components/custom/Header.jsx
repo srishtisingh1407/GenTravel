@@ -23,8 +23,8 @@ const menuItems = [
     href: "/",
   },
   {
-    name: "About",
-    href: "/about",
+    name: "Create trip",
+    href: "/create-trip",
   },
   {
     name: "Contact",
